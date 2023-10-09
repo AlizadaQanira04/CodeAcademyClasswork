@@ -1,65 +1,60 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    outline: none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
 }
-#sugar{
-    color: rgb(75, 75, 139);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 30px;
+#sugar {
+  color: rgb(75, 75, 139);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
 }
-#lorem{
-    color: rgb(76, 46, 104);
-    font-family: 'AR One Sans', sans-serif;
-    font-size: 20px;
+#lorem {
+  color: rgb(76, 46, 104);
+  font-family: "AR One Sans", sans-serif;
+  font-size: 20px;
 }
-#ipsum{
-    color: rgb(44, 40, 40);
-    font-family: 'Monoton', cursive;
-    
+#ipsum {
+  color: rgb(44, 40, 40);
+  font-family: "Monoton", cursive;
 }
-#dolor{
-    color: white;
-    font-family: 'Monoton', cursive;
-    
+#dolor {
+  color: white;
+  font-family: "Monoton", cursive;
 }
-#sit{
-    color: rgb(90, 72, 107);
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 20px;
-    text-transform: capitalize;
-    
+#sit {
+  color: rgb(90, 72, 107);
+  font-family: "Sofia Sans Condensed", sans-serif;
+  font-size: 20px;
+  text-transform: capitalize;
 }
-#amet{
-    color: green;
-    font-family: 'Young Serif', serif;
-    padding: 20px;
-   text-decoration: underline;
-
+#amet {
+  color: green;
+  font-family: "Young Serif", serif;
+  padding: 20px;
+  text-decoration: underline;
 }
-#consec{
-    color: rgb(46, 39, 39);
-    font-family: 'Montserrat', sans-serif;
+#consec {
+  color: rgb(46, 39, 39);
+  font-family: "Montserrat", sans-serif;
 }
-#adip{
-    color: green;
-    font-family: 'Roboto Condensed', sans-serif;
+#adip {
+  color: green;
+  font-family: "Roboto Condensed", sans-serif;
 }
-#elit{
-    color: black;
-    font-family: 'Playfair Display', serif;
+#elit {
+  color: black;
+  font-family: "Playfair Display", serif;
 }
-#magnam{
-    color: brown;
-    font-family: 'Playfair Display', serif;
-
+#magnam {
+  color: brown;
+  font-family: "Playfair Display", serif;
 }
-#quis{
-    color: black;
-    font-family: 'Lora', serif;
+#quis {
+  color: black;
+  font-family: "Lora", serif;
 }
-#sit{
-    color: bisque
-    font-family: 'Roboto Condensed', sans-serif;;
+#sit {
+  color: bisque;
+  font-family: "Roboto Condensed", sans-serif;
 }
