@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+}
+.comunication {
+  background-color: rgb(155, 202, 202);
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+#address{
+    padding: 32px;
+}
+
+.fa-brands {
+  color: green;
+}
+.fa-solid {
+  color: green;
+}
+p {
+  color: rgb(100, 68, 68);
+}
+#contact form {
+  background-color: white;
+  
+}
+#footer {
+  color: rgb(97, 75, 75);
+  height: 30vh;
+}
+
