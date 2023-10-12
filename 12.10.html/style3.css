@@ -1,0 +1,44 @@
+* {
+  /* margin: 0;
+    padding: 0; */
+  box-sizing: border-box;
+}
+
+body {
+  height: 300vh;
+  background-color: grey;
+}
+.header{
+    height: 100%;
+}
+
+.text1 {
+  background-color: bisque;
+  border-radius: 10px;
+  border: 6px solid rgb(54, 54, 175);
+  margin: 20px;
+  position: fixed;
+    top: 0;
+  
+}
+.text2 {
+  background-color: rgb(78, 104, 78);
+  border-radius: 10px;
+  border: 6px solid rgb(54, 54, 175);
+  margin: 60px;
+  position: relative;
+}
+.text3 {
+  background-color: aquamarine;
+  border-radius: 10px;
+  border: 6px solid rgb(54, 54, 175);
+  margin: 20px;
+}
+.text4 {
+  background-color: rgb(26, 161, 214);
+  border-radius: 10px;
+  border: 6px solid rgb(54, 54, 175);
+  margin: 20px;
+  position: sticky;
+  top: 0;
+}
