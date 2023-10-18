@@ -8,77 +8,27 @@
     margin: 0 auto;
 }
 
-.boxes{
-    width: 30%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction:column;
-
-}
-.box{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction:column;
-
-}
-.box1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction:column;
-
-}
-.image .boxes{
-    border: 2px solid black;
-    border-radius: 5px;
-}
-.boxes img{
+.img {
     width: 200px;
     height: 200px;
-    border-radius: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
+    border-radius: 50%;
 }
-.box{
-    background-color: rgb(70, 70, 145);
-    color: white;
-    width: 30%;
-    height: 15vh;
-}
-.box1{
-    background-color: rgb(221, 151, 20);
-    color: white;
-    width: 30%;
-    height: 15vh;
-}
-.point{
-    background-color: rgb(70, 70, 145);
-    color: white;
-    width: 30%; 
-    height: 15vh;
+.boxes{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction:column;
-
 }
-.point .empty{
- 
-    border-radius: 5px;
-    background-color: white;
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(7,1fr);
+    gap: 10px;
 }
-.end{
-    width: 40%;
-    background-color: rgb(70, 70, 145);
-    height: 40vh;
-    color: white;
-}
-.end {
+.box{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction:column;
+    background-color: teal;
 }
