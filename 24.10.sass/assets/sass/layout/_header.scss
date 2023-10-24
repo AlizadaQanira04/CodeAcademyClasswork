@@ -1,0 +1,20 @@
+header {
+  background-color: $primary-color;
+  text-decoration: none;
+  .header {
+    @include flex(space-between);
+    h3 {
+       width: 187px; 
+      line-height: 32px;
+      letter-spacing: 0.1;
+      color: $text-color;
+    }
+    nav {
+      ul {
+        @include flex();
+        gap: 20px;
+       
+      }
+    }
+  }
+}
