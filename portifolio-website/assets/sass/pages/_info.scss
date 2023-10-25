@@ -1,0 +1,22 @@
+#info {
+  background-color: $primary-color;
+  display: flex;
+  .portifolio {
+    display: flex;
+    flex-direction: column;
+    @include flex();
+    gap: 40px;
+    color: $secondary-color;
+    width: 100%;
+    height: 40vh;
+    h1 {
+      font-family: epilogue;
+      width: 800;
+      font-size: 72px;
+    }
+    .lorrem {
+      font-size: 18px;
+      
+    }
+  }
+}
